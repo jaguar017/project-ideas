@@ -1,10 +1,10 @@
 <p align="center">
-
-	<img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540" alt="ISTE-VIT VIT"/>
+<a href="https://istevit.in/">
+	<img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 </a>
-	
+	<h2 align="center">Project Ideas</h2>
 	<h4 align="center">Got an Idea? Confused about implementation :thinking:?
-Relax! We’ve got it for you </h4>
+Relax! We’ve got it for you<h4>
 </p>
 
 
@@ -26,7 +26,7 @@ All that one must do is contribute to any open source project and open atleast 4
 
 
 * Fork the project and share your idea with us 💡.
-*  If you want to propose a new Idea, please use the [Project Template](./Project Teamplate.md) as a base template.
+*  If you want to propose a new Idea, please use the [Project Template](Project Template.md) as a base template.
 * Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
 * Make sure you check your spelling and grammar.
 * Send pull request for review .
