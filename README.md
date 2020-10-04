@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://istevit.in/">
-	<img src="https://drive.google.com/file/d/1V1Hjx9JbeciPDMqzXrN0d5doGF93pXaJ/view?usp=sharing">
+	<img src="">
 </a>
 	<h2 align="center">Project Ideas</h2>
 	<h4 align="center">Got an Idea? Confused about implementation?
@@ -14,7 +14,7 @@ Relax! We’ve got it for you :relieved: <h4>
 </h2>
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in the global community!
 
-All that one must do is contribute to any open source project and open atleast 4 pull request between October 1 and October 31. It can be any project and you can contribute in any way possible. It can be a be a bug fix, improvement,feature addition  or even a documentation change! And win a T-Shirt and awesome stickers :star_struck:.
+All that one must do is contribute to any open source project and send atleast 4 pull request between October 1 and October 31. It can be any project and you can contribute in any way possible. It can be a bug fix, improvement,feature addition  or even a documentation change! And win a T-Shirt and awesome stickers :star_struck:.
 
 
 [Registration Link](https://hacktoberfest.digitalocean.com/)
