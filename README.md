@@ -4,7 +4,7 @@
 </a>
 	<h2 align="center">Project Ideas</h2>
 	<h4 align="center">Got an Idea? Confused about implementation?
-Relax! We’ve got it for you :relieved: <h4>
+Relax! We’ve got it for you :relieved: </h4>
 </p>
 
 <br> 
