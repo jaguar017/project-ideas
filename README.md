@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://istevit.in/">
-	<img src="">
+	<img src="https://github.com/Manasvi070902/project-ideas/blob/master/Hacktober.png">
 </a>
 	<h2 align="center">Project Ideas</h2>
 	<h4 align="center">Got an Idea? Confused about implementation?
