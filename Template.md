@@ -1,18 +1,18 @@
 # Project Name
 
-# Description
+## Description
 Add a proper description of the application and its main features.
 Answer the following questions:
 
 -   "What is the purpose of this application?"
 -   "Are there any resources needed in order to complete the project?" - If yes, be sure to add it.
 
-# Implemtation
+## Implementation
 -  "How are you going to implement the idea?"
 
 ## Useful links and resources
 
-Add useful links and resources corresponding to this project.
+- Add useful links and resources corresponding to this project.
 
 ## Example projects
 
