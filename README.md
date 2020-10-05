@@ -21,12 +21,12 @@ All that one must do is contribute to any open source project and send atleast 4
 
 
 
-## Steps to Contribute
+## Steps to Contribute ##
 
 
 * Fork the project and share your idea with us 💡.
 * If you want to propose a new Idea, please use the [Project Template](./Template.md) as a base template.
-* Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
+* Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea. We do see and keep a close look at innovative ideas and help you to go forward
 * Make sure you check your spelling and grammar.
 * Send pull request for review .
 
@@ -36,6 +36,6 @@ All that one must do is contribute to any open source project and send atleast 4
 
 
 <p align="center">
-	With :heart: by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+	With :heart: by <a href="https://istevit.in/" target="_blank"> ISTE-VIT </a>
 </p>
 
